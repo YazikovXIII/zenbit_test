@@ -6,7 +6,7 @@ export const NotFound = () => {
     <ChakraProvider colorScheme="blue">
       <Box textAlign="center" mt="20">
         <Heading as="h1" size="xl" mb="6">
-          Page does not exist
+          Page does not exist!
         </Heading>
         <Text fontSize="lg">Not Found</Text>
       </Box>
